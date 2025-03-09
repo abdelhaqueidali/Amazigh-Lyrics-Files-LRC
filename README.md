@@ -1,5 +1,7 @@
 # Amazigh Lyrics Files (LRC)
 
+https://abdelhaqueidali.github.io/Amazigh-Lyrics-Files-LRC/
+
 This repository contains a collection of LRC (lyric) files for Amazigh songs. These files can be used with music players that support LRC format to display synchronized lyrics while listening to the songs.  This repo is intended to be used with my other project: [LRC & YouTube Player](https://github.com/abdelhaqueidali/LRC-And-YouTube-Player). You can test how these files work with the songs here: [https://abdelhaqueidali.github.io/LRC-And-YouTube-Player/](https://abdelhaqueidali.github.io/LRC-And-YouTube-Player/)
 
 ## About
