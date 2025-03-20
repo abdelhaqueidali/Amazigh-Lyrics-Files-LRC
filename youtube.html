@@ -169,7 +169,7 @@
 
     // Load song list and store first song
     let firstSongData = null;
-    fetch('data.txt')
+    fetch('data_youtube.txt')
         .then(response => response.text())
         .then(data => {
             const songList = document.getElementById('songList');
